@@ -2,9 +2,9 @@
 title: "Programming Language I"
 collection: teaching
 type: "Undergraduate"
-permalink: 2014-spring-teaching-1.
+permalink: /teaching/2014-spring-teaching-1.
 venue: "ECE, NSU"
-date: Summer 2023
+date: 2023-01-15
 location: "Dhaka, Bangladesh"
 ---
 
