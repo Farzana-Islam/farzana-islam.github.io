@@ -14,7 +14,6 @@ location: "Dhaka, Bangladesh"
 
 **Instructor**: Farzana Islam
 - Office: SAC 1052D
-- Phone: 
 - Email: farzana.islam01@northsouth.edu
 - Office Hours: TBA
 
