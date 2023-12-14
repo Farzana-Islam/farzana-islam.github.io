@@ -14,7 +14,7 @@ I received my BSc degree in [Computer Science and Engineering](http://www.norths
 
 ## Research Interests
 
-My primary research interests are in the fields of Artificial Intelligence (AI) and Human-Computer Interaction (HCI). Natural Language Processing (NLP) and Data Mining (DM). I am specifically interested in promoting the ethical use of AI and ensuring the fair distribution of AI models to underrepresented and marginalized communities.
+My primary research interests are in the fields of Artificial Intelligence (AI) and Human-Computer Interaction (HCI). I am specifically interested in promoting the ethical use of AI and ensuring the fair distribution of AI models to underrepresented and marginalized communities.
 
 - **Natural Language Processing (NLP)**:
   - Text mining, text classification
@@ -29,3 +29,4 @@ My primary research interests are in the fields of Artificial Intelligence (AI) 
 
   
 ## News and Upcoming Events
+- **(17/8/2023)** our paper got Best Journal Paper Award at **Compass 2023**
