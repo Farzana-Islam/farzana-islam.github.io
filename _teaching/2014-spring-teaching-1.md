@@ -8,7 +8,7 @@ date: 2023-01-15
 location: "Dhaka, Bangladesh"
 ---
 
-<span style="color:red">Information on this page has not been updated since January 13, 2023. Students should go to Canvas for the most up-to-date course syllabus and materials.</span>
+<span style="color:red">Details Comming Soon.</span>
 
 **Time and Location**: Tuesday and Thursday, 12:30 PM - 1:45 PM. NCB 270.
 
