@@ -10,7 +10,7 @@ location: "Dhaka, Bangladesh"
 
 <span style="color:red">Details Comming Soon.</span>
 
-**Time and Location**: Tuesday and Thursday, 12:30 PM - 1:45 PM. NCB 270.
+
 
 **Instructor**: Farzana Islam
 - Office: SAC 1052D
