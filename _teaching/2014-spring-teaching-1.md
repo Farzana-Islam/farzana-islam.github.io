@@ -1,13 +1,21 @@
 ---
-title: 
-collection: 
-type: 
+title: "Programming Language I"
+collection: teaching
+type: "Undergraduate"
 permalink: 
-venue: 
-date: 
-location: 
+venue: "ECE, NSU"
+date: Summer 2023
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<span style="color:red">Information on this page has not been updated since January 13, 2023. Students should go to Canvas for the most up-to-date course syllabus and materials.</span>
 
-Comming Soon....
+**Time and Location**: Tuesday and Thursday, 12:30 PM - 1:45 PM. NCB 270.
+
+**Instructor**: Farzana Islam
+- Office: SAC 1052D
+- Phone: 
+- Email: farzana.islam01@northsouth.edu
+- Office Hours: TBA
+
+
