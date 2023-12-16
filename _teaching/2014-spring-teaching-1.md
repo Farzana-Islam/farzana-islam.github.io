@@ -8,7 +8,7 @@ date: 2023-01-15
 location: "Dhaka, Bangladesh"
 ---
 
-<span style="color:red">Comming Soon.......</span>
+<span style="color:red">Loading Soon.......</span>
 
 
 
