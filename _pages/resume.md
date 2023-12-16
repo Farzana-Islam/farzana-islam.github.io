@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/Shubham_Gupta_CV.pdf
+permalink: /assets/pdf/CV.pdf
 title: CV
 nav: true
 newtab: true
