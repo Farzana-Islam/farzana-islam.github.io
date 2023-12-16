@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /files/pdf/CV.pdf
+permalink: /assets/pdf/fislam_CV.pdf
 title: CV
 nav: true
 newtab: true
