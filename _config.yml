@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Farzana Islam"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Farzana Islam"
 description              : &description "Lab Instructor"
@@ -96,8 +96,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  resume: https://farzana-islam.github.io/Farzana Islam_CV.pdf
-  CV               : /files/Farzana Islam_CV.pdf
   google_plus      :
   keybase          :
   instagram        :
