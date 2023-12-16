@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: archive
+title: "CV"
 permalink: /assets/fislam_CV.pdf
-title: CV
 nav: true
 newtab: true
 nav_order: 3
+redirect_from:
+  - /resume
 ---
+
+
