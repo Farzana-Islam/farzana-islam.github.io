@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working as a Lab Instructor in the [Electrical and Computer Engineering (ECE) Department](http://www.northsouth.edu/) at North South University (NSU). The position is equivalent to a junior Lecturer position.
+I am working as a Lab Instructor in the [Electrical and Computer Engineering (ECE) Department](http://www.northsouth.edu/) of North South University (NSU). The position is equivalent to a junior Lecturer position.
 
 I received my BSc degree in [Computer Science and Engineering](http://www.northsouth.edu/) from NSU with Cum Laude Distinction.
 
