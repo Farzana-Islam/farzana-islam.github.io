@@ -1,7 +1,7 @@
 
 ---
 permalink: permalink: /teaching/2014-spring-teaching-1
-title: "Teaching" # <i class="fa fa-university" aria-hidden="true"></i> 
+title: "Teaching"
 layout: archive
 author_profile: true
 ---
