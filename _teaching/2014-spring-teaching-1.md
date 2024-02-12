@@ -1,6 +1,5 @@
-
 ---
-permalink: permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/
 title: "Teaching"
 layout: archive
 author_profile: true
@@ -16,6 +15,7 @@ author_profile: true
 - CS 224: Interactive Computer Graphics, [Prof. John Hughes](http://cs.brown.edu/people/jhughes/), Head TA, Brown, 2010
 - CS 149: Intro. to Combinatorial Optimization, [Prof. Meinolf Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann), Head TA, Brown, 2008, 2009
 - [Teaching Certificate - The Harriet W. Sheridan Center for Learning](https://www.brown.edu/about/administration/sheridan-center/), Brown, 2008
+
 
 
 
