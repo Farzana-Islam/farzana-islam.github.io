@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /teaching/2014-spring-teaching-1
 title: "Teaching"
 layout: archive
 author_profile: true
