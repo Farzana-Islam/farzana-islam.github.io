@@ -29,4 +29,5 @@ My primary research interests are in the fields of Artificial Intelligence (AI) 
 
   
 ## News and Upcoming Events
+- **(10/2/2024)** Joining as an AI Research Fellow at [Tech Global Institute](https://techglobalinstitute.com/)
 - **(17/8/2023)** our paper got Best Journal Paper Award at **Compass 2023**
